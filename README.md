@@ -582,13 +582,16 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ### Home Page:
-![output](homepage.png)
+![homepage](https://user-images.githubusercontent.com/95024854/153768414-2fd8c720-d7c9-4283-ba41-e95acae51df8.png)
+
 
 ### About us page:
-![output](aboutus.png)
+![aboutuspage](https://user-images.githubusercontent.com/95024854/153768428-4b4f0080-d65b-480e-aa18-e8526fb3e89b.png)
+
 
 ### Contact us page:
-![output](contactus.png)
+![contactuspage](https://user-images.githubusercontent.com/95024854/153768441-28cc616b-5fa4-4775-b776-1e2a75222ef7.png)
+
 
 
 ## Result:
